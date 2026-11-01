@@ -57,7 +57,7 @@ Grafik Tren Waktu (Line Chart): Menampilkan gelombang kenaikan kasus harian seca
 
 Perbandingan Provinsi (Bar Chart): Menampilkan provinsi dengan total kasus kumulatif terbanyak.
 
-🔗 (https://public.tableau.com/views/COVID-19IndonesiaTimeSeriesGeographicAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 (https://public.tableau.com/views/COVID-19IndonesiaTimeSeriesGeographicAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 💡 Key Insights (Temuan Utama)
 Gelombang Puncak: Terdapat dua gelombang lonjakan kasus yang sangat signifikan selama periode pencatatan, yang berkaitan erat dengan periode libur panjang dan masuknya varian baru virus.
